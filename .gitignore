@@ -3,6 +3,12 @@
 *.lo
 *.o
 
+#executable files
+*.exe
+
+#help documents
+*.pdf
+
 # Compiled Dynamic libraries
 *.so
 
